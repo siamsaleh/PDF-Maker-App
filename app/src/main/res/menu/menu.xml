@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:id="@+id/createPDF_menu" android:title="Create Pdf" android:icon="@drawable/ic_picture_as_pdf_black_24dp"/>
+    <item android:id="@+id/openPDF_menu" android:title="Open PDF" android:icon="@drawable/ic_folder_open_black_24dp"/>
+    <item android:id="@+id/share_menu" android:title="Share" android:icon="@drawable/ic_share_black_24dp"/>
+    <item android:id="@+id/about_menu" android:title="About" android:icon="@drawable/ic_info_outline_black_24dp"/>
+<!--    <item android:id="@+id/Setting_menu" android:title="Setting" android:icon="@drawable/ic_settings_black_24dp"/>-->
+<!--    <item android:id="@+id/tasbeeh_Counter_menu" android:title="Tasbeeh Counter APP" android:icon="@drawable/ic_get_app_black_24dp" />-->
+
+
+</menu>
